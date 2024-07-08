@@ -6,7 +6,7 @@
 ![Martinz GitHub stats](https://github-readme-stats.vercel.app/api?username=gbmartinz-dev&show_icons=true&theme=dark)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbmartinz-dev)](https://github.com/gbmartinz-dev/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia 🇧🇷<br/>Technologies I use in my day 🇺🇸
+### Tecnologias que eu uso no meu dia 🇧🇷<br/>Technologies I use in my day 🇺🇸
 
 <div style="display: inline-block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
