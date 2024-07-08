@@ -1,6 +1,6 @@
 
-# Olá! Eu sou o Gabriel Martins 🇧🇷👋
-## Hello! I'm Gabriel Martins 🇺🇸👋
+# Olá! Eu sou o Gabriel Martins 🇧🇷👋<br/>
+Hello! I'm Gabriel Martins 🇺🇸👋
 
 [![Blog](https://img.shields.io/website?label=gabrielmartinz-dev.com&style=for-the-badge&url=https://my-portfolio-alpha-lake-67.vercel.app/)](https://my-portfolio-alpha-lake-67.vercel.app/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/gabriel-martins-a72506186/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.martins043/)
 
