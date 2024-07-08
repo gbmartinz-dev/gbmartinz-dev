@@ -1,14 +1,12 @@
 
-### Olá! Eu sou o Gabriel Martins 🇧🇷👋<br/>
-Hello! I'm Gabriel Martins 🇺🇸👋
+### Olá! Eu sou o Gabriel Martins 🇧🇷👋<br/>Hello! I'm Gabriel Martins 🇺🇸👋
 
 [![Blog](https://img.shields.io/website?label=gabrielmartinz-dev.com&style=for-the-badge&url=https://my-portfolio-alpha-lake-67.vercel.app/)](https://my-portfolio-alpha-lake-67.vercel.app/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/gabriel-martins-a72506186/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.martins043/)
 
 ![Martinz GitHub stats](https://github-readme-stats.vercel.app/api?username=gbmartinz-dev&show_icons=true&theme=dark)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbmartinz-dev)](https://github.com/gbmartinz-dev/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia 🇧🇷<br/>
-Technologies I use in my day 🇺🇸
+## Tecnologias que eu uso no meu dia 🇧🇷<br/>Technologies I use in my day 🇺🇸
 
 <div style="display: inline-block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
