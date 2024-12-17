@@ -3,6 +3,8 @@
 
 [![Blog](https://img.shields.io/website?label=GB.DEV.com&style=for-the-badge&url=https://portfolio-2024-two-iota.vercel.app)](https://portfolio-2024-two-iota.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.martins043/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-a72506186/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gabrielmartinsds)
 
 ![Martinz GitHub stats](https://github-readme-stats.vercel.app/api?username=gbmartinz-dev&show_icons=true&theme=dark)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbmartinz-dev)](https://github.com/gbmartinz-dev/github-readme-stats)
